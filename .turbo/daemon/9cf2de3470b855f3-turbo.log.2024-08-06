@@ -330,3 +330,1183 @@
 2024-08-06T02:08:25.672736Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
 2024-08-06T02:08:33.372822Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
 2024-08-06T02:08:33.372843Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:09:33.474109Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:09:33.474171Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:10:33.473929Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:10:33.473954Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:11:33.474166Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:11:33.474180Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:12:33.475173Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:12:33.475216Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:13:33.475397Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:13:33.475446Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:14:33.474610Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:14:33.474657Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:15:33.475273Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:15:33.475696Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:16:33.475650Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:16:33.475672Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:17:33.476312Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:17:33.476369Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:18:33.476057Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:18:33.476076Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:19:33.475629Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:19:33.475669Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:20:33.577599Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:20:33.577630Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:21:33.577104Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:21:33.577122Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:22:33.577377Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:22:33.577426Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:23:33.577427Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:23:33.577446Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:24:33.577280Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:24:33.577316Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:25:33.573488Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:25:33.573534Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:26:33.550536Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:26:33.550561Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:27:33.549679Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:27:33.549710Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:28:33.549315Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:28:33.549368Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:29:33.549060Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:29:33.549092Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:30:33.548905Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:30:33.548931Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:31:33.548171Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:31:33.548201Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:32:33.548632Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:32:33.548660Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:33:33.648381Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:33:33.648412Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:34:33.648017Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:34:33.648052Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:35:33.647430Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:35:33.647458Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:36:33.648039Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:36:33.648071Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:37:33.647163Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:37:33.647197Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:38:33.647834Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:38:33.647864Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:39:33.646423Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:39:33.646451Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:40:33.646071Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:40:33.646082Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:41:33.647103Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:41:33.647140Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:42:33.646474Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:42:33.646492Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:43:33.645429Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:43:33.645445Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:44:33.646206Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:44:33.646234Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:45:33.645751Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:45:33.645777Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:46:33.645090Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:46:33.645135Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:47:33.745901Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:47:33.745935Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:48:33.745856Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:48:33.745883Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:49:33.745918Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:49:33.745972Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:50:33.744907Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:50:33.744937Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:51:33.745707Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:51:33.745743Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:52:33.745125Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:52:33.745159Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:53:33.744969Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:53:33.745007Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:54:33.741142Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:54:33.741197Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:55:33.741362Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:55:33.741403Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:56:33.740576Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:56:33.740606Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:57:33.740419Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:57:33.740454Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:58:33.739794Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:58:33.739824Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T02:59:33.839347Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T02:59:33.839385Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:00:33.839944Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:00:33.839990Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:01:33.840081Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:01:33.840103Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:02:33.838151Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:02:33.838187Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:03:33.839265Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:03:33.839296Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:04:33.838894Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:04:33.838925Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:05:33.838558Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:05:33.838594Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:06:33.838402Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:06:33.838435Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:07:33.838522Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:07:33.838569Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:08:33.837678Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:08:33.837717Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:09:33.836674Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:09:33.836707Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:10:33.937149Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:10:33.937183Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:11:33.936974Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:11:33.937016Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:12:33.937344Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:12:33.937421Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:13:33.936254Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:13:33.936289Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:14:33.937404Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:14:33.937429Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:15:33.936235Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:15:33.936268Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:16:33.935486Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:16:33.935531Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:17:33.935494Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:17:33.935532Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:18:33.934642Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:18:33.934672Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:19:33.935377Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:19:33.935414Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:20:33.934314Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:20:33.934352Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:21:34.034481Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:21:34.034509Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:22:34.034061Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:22:34.034100Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:23:34.034006Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:23:34.034023Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:24:34.079788Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:24:34.079804Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:25:34.082739Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:25:34.082798Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:26:34.083225Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:26:34.083272Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:27:34.083265Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:27:34.083279Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:28:34.083906Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:28:34.083929Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:29:34.084544Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:29:34.084560Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:30:34.085376Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:30:34.085390Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:31:34.086145Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:31:34.086184Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:32:34.086546Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:32:34.086577Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:33:34.186837Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:33:34.186875Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:34:34.187961Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:34:34.188000Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:35:34.188914Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:35:34.188957Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:36:34.190886Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:36:34.191114Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:37:34.189499Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:37:34.189652Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:38:34.190352Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:38:34.190418Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:39:34.190743Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:39:34.190757Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:40:34.191886Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:40:34.191920Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:41:02.091488Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("TODOER.md")}
+2024-08-06T03:41:02.091545Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:41:34.190918Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:41:34.190940Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:42:14.092577Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("TODOER.md")}
+2024-08-06T03:42:14.092588Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:42:34.192500Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:42:34.192524Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:42:49.292908Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("TODOER.md")}
+2024-08-06T03:42:49.292928Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:43:34.193420Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:43:34.193438Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:44:34.198419Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:44:34.198451Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:44:51.593885Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("TODOER.md")}
+2024-08-06T03:44:51.593896Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:45:25.593194Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("TODOER.md")}
+2024-08-06T03:45:25.593205Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:45:34.193931Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:45:34.193947Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:46:34.194746Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:46:34.194782Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:47:34.194713Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:47:34.194755Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:48:34.296080Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:48:34.296111Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:49:34.297176Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:49:34.297214Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:50:34.297064Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:50:34.297099Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:51:34.304417Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:51:34.304467Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:52:34.307523Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:52:34.307566Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:53:34.308391Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:53:34.308437Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:54:34.308688Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:54:34.308725Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:55:34.309905Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:55:34.309941Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:56:34.311192Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:56:34.311225Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:57:34.311745Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:57:34.311783Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:58:34.313091Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:58:34.313131Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T03:59:34.313622Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T03:59:34.313687Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:00:34.412650Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:00:34.412700Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:01:34.415584Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:01:34.415618Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:02:34.416161Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:02:34.416190Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:03:34.416659Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:03:34.416711Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:04:34.417936Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:04:34.417961Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:05:34.418544Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:05:34.418562Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:06:34.418905Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:06:34.418939Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:07:34.419933Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:07:34.419960Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:08:34.421221Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:08:34.421275Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:09:34.421504Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:09:34.421535Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:10:34.421824Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:10:34.421843Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:11:34.423432Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:11:34.423489Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:12:34.423480Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:12:34.423492Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:13:34.422845Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:13:34.422865Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:14:34.524240Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:14:34.524283Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:15:34.524934Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:15:34.524949Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:16:34.524411Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:16:34.524435Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:17:34.527015Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:17:34.527040Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:18:34.521941Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:18:34.521961Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:19:34.520091Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:19:34.520119Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:20:34.520413Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:20:34.520522Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:21:34.521496Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:21:34.521540Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:22:34.520815Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:22:34.520841Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:23:34.523378Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:23:34.523420Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:24:34.522449Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:24:34.522525Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:25:34.524867Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:25:34.524906Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:26:34.523746Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:26:34.523795Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:27:34.525216Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:27:34.525255Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:28:34.626813Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:28:34.626887Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:29:34.625487Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:29:34.625527Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:30:34.627760Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:30:34.627796Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:31:34.628216Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:31:34.628251Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:32:34.628507Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:32:34.628560Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:33:34.627430Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:33:34.627444Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:34:34.629584Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:34:34.629598Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:35:34.629898Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:35:34.629921Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:36:34.631347Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:36:34.631364Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:37:34.631656Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:37:34.631688Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:38:34.632087Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:38:34.632109Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:39:34.631823Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:39:34.631837Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:40:34.633510Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:40:34.633540Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:41:34.632025Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:41:34.632044Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:42:34.734654Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:42:34.734699Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:43:34.735301Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:43:34.735328Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:44:34.736300Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:44:34.736321Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:45:34.736199Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:45:34.736240Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:46:34.737352Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:46:34.737417Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:47:34.726282Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:47:34.726300Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:48:34.724263Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:48:34.724302Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:49:34.724579Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:49:34.724590Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:50:34.723943Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:50:34.723997Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:51:34.725451Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:51:34.725481Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:52:34.827099Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:52:34.827140Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:53:34.726462Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:53:34.726497Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:53:34.827000Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:53:34.827036Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:54:34.827658Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:54:34.827725Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:55:34.826830Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:55:34.826863Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:56:34.828773Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:56:34.828827Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:57:34.829374Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:57:34.829416Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:58:34.829429Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:58:34.829478Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T04:59:34.828284Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T04:59:34.828322Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T05:00:34.828979Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T05:00:34.829023Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T05:01:34.830395Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T05:01:34.830415Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T05:02:34.830184Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T05:02:34.830223Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T05:03:34.829802Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T05:03:34.829836Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T05:04:34.831388Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T05:04:34.831426Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T16:57:32.859206Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/1.cookie"), AnchoredSystemPathBuf(".turbo/cookies/.turbo-cookie")}
+2024-08-06T16:57:32.859321Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T16:57:33.559959Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.ts.timestamp-1722963453486-6dd4e30fd8a22.mjs")}
+2024-08-06T16:57:33.559968Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T16:57:40.960856Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T16:57:40.960896Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T16:58:40.962701Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T16:58:40.962792Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T16:59:11.762665Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T16:59:11.762675Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T16:59:40.962379Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T16:59:40.962448Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T16:59:42.262856Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T16:59:42.262864Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T16:59:42.262885Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T17:00:38.063725Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T17:00:38.063734Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:00:40.963903Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:00:40.963923Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:01:41.065488Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:01:41.065514Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:01:44.265273Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T17:01:44.265284Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:02:41.066104Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:02:41.066120Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:03:33.065749Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/data/get-messages.ts")}
+2024-08-06T17:03:33.065761Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:03:41.066265Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:03:41.066283Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:03:57.766488Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/data/get-messages.ts")}
+2024-08-06T17:03:57.766497Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:04:41.067942Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:04:41.067964Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:05:08.468851Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/data/get-messages.ts")}
+2024-08-06T17:05:08.468860Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:05:41.067145Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:05:41.067178Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:05:45.667706Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/data/get-messages.ts")}
+2024-08-06T17:05:45.667715Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:06:04.667707Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/data/get-messages.ts")}
+2024-08-06T17:06:04.667716Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:06:17.567928Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/data/get-messages.ts")}
+2024-08-06T17:06:17.567941Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:06:41.068809Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:06:41.068822Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:07:41.070279Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:07:41.070304Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:07:48.269182Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:07:48.269191Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:08:00.171027Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:08:00.171043Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:08:03.170543Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:08:03.170557Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:08:18.370485Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:08:18.370494Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:08:32.170844Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:08:32.170862Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:08:35.174451Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:08:35.174480Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:08:41.071325Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:08:41.071361Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:08:47.671480Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:08:47.671498Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:09:41.071672Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:09:41.071736Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:10:09.672204Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T17:10:09.672212Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:10:41.072074Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:10:41.072103Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:11:09.072981Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T17:11:09.072999Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:11:41.073536Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:11:41.073570Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:11:46.873570Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T17:11:46.873579Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:12:41.073616Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:12:41.073658Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:13:41.075493Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:13:41.075520Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:14:41.075235Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:14:41.075256Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:15:41.076463Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:15:41.076527Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:16:14.876443Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:16:14.876456Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:16:41.177711Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:16:41.177726Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:16:48.577531Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:16:48.577569Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:16:48.577628Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T17:17:00.377900Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T17:17:00.377920Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:17:24.077646Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T17:17:24.077655Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:17:41.177866Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:17:41.177895Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:17:42.577245Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T17:17:42.577253Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:18:10.379043Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T17:18:10.379050Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:18:41.179432Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:18:41.179498Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:19:41.179019Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:19:41.179039Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:20:22.281174Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T17:20:22.281191Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:20:41.181492Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:20:41.181574Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:21:03.380989Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T17:21:03.380999Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:21:14.780504Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T17:21:14.780521Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:21:21.183623Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T17:21:21.183635Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:21:41.181806Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:21:41.181823Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:21:41.281196Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T17:21:41.281204Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:21:42.781501Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T17:21:42.781511Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:21:42.791988Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T17:22:10.481629Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T17:22:10.481665Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:22:24.881976Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T17:22:24.881985Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:22:38.781866Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T17:22:38.781877Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:22:41.182414Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:22:41.182428Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:23:15.782169Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T17:23:15.782192Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:23:26.582266Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/data/get-messages.ts")}
+2024-08-06T17:23:26.582276Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:23:33.182686Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/data")}
+2024-08-06T17:23:33.182706Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:23:33.182732Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T17:23:41.183358Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:23:41.183379Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:24:36.883665Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:24:36.883677Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:24:41.184476Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:24:41.184501Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:25:11.634747Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:25:11.634775Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:25:11.636973Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T17:25:13.934356Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:25:13.934370Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:25:24.533371Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:25:24.533381Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:25:30.033518Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:25:30.033534Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:25:31.834265Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:25:31.834274Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:25:31.834299Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T17:25:41.133751Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:25:41.133764Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:25:44.637317Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:25:44.637330Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:25:50.934611Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:25:50.934622Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:25:52.333497Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:25:52.333506Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:25:52.333525Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T17:26:30.333890Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:26:30.333929Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:26:41.133939Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:26:41.133947Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:26:43.834126Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:26:43.834138Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:26:48.333409Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:26:48.333421Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:26:59.849631Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:26:59.849640Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:27:09.633855Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:27:09.633902Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:27:30.533776Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:27:30.533784Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:27:41.133814Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:27:41.133834Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:27:41.233614Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:27:41.233622Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:28:06.832949Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:28:06.832957Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:28:41.134241Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:28:41.134280Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:28:49.933490Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:28:49.933504Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:28:50.033642Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:28:50.033651Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:28:50.033677Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T17:28:56.433548Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:28:56.433556Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:29:10.233820Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:29:10.233829Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:29:32.033792Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:29:32.033803Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:29:41.132872Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:29:41.132881Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:29:49.134287Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:29:49.134295Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:30:00.533965Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:30:00.533975Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:30:15.233550Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/index.ts")}
+2024-08-06T17:30:15.233616Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:30:41.134138Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:30:41.134146Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:31:09.333563Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:31:09.333585Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:31:35.932883Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:31:35.932891Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:31:41.134362Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:31:41.134440Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:31:49.534237Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:31:49.534248Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:32:03.333648Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:32:03.333656Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:32:23.333628Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:32:23.333645Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:32:38.833568Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:32:38.833580Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:32:41.234077Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:32:41.234089Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:33:07.233234Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:33:07.233246Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:33:41.233429Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:33:41.233441Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:34:36.440195Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:34:36.440261Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:34:41.233865Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:34:41.233883Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:35:14.633974Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:35:14.633985Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:35:30.233616Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:35:30.233643Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:35:31.833099Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T17:35:31.833107Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:35:31.833140Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T17:35:41.232477Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:35:41.232492Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:35:52.733850Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:35:52.733858Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:35:52.733888Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T17:36:41.233781Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:36:41.233875Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:37:41.232471Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:37:41.232487Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:38:23.133480Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/message.tsx")}
+2024-08-06T17:38:23.133514Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:38:41.233655Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:38:41.233693Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:38:56.633212Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/message.tsx")}
+2024-08-06T17:38:56.633220Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:38:58.633056Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/message.tsx")}
+2024-08-06T17:38:58.633066Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:39:41.232855Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:39:41.232891Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:40:15.032283Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/message.tsx")}
+2024-08-06T17:40:15.032292Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:40:19.633153Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/message.tsx")}
+2024-08-06T17:40:19.633162Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:40:23.433109Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/message.tsx")}
+2024-08-06T17:40:23.433130Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:40:23.433172Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T17:40:37.833306Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/message.tsx")}
+2024-08-06T17:40:37.833317Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:40:37.841230Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T17:40:41.233819Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:40:41.233842Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:40:42.232978Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/message.tsx")}
+2024-08-06T17:40:42.232989Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:40:57.233176Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/message.tsx")}
+2024-08-06T17:40:57.233197Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:40:57.233224Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T17:41:06.132528Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/message.tsx")}
+2024-08-06T17:41:06.132536Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:41:41.333059Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:41:41.333068Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:41:57.433447Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.ts.timestamp-1722966117388-ab42a7ef76985.mjs")}
+2024-08-06T17:41:57.433466Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:41:57.446853Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T17:42:41.333110Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:42:41.333121Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:42:48.932826Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:42:48.932834Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:42:50.932898Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:42:50.932914Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:42:50.933001Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T17:43:06.532793Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:43:06.532803Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:43:15.632913Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:43:15.632943Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:43:17.532345Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:43:17.532354Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:43:41.333476Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:43:41.333506Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:44:41.333392Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:44:41.333433Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:45:37.332511Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:45:37.332531Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:45:41.332244Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:45:41.332296Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:46:17.032627Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:46:17.032655Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:46:41.332649Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:46:41.332671Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:47:10.533157Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:47:10.533167Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:47:41.333333Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:47:41.333362Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:48:41.333594Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:48:41.333674Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:49:41.332984Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:49:41.333010Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:50:41.331674Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:50:41.331741Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:51:41.334153Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:51:41.334209Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:52:39.907281Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:52:39.907327Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:52:41.306811Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:52:41.306828Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:52:56.501339Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:52:56.501356Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:53:41.299988Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:53:41.300125Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:54:36.797990Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:54:36.798016Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:54:41.298807Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:54:41.298850Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:55:41.297848Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:55:41.297871Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:55:41.597714Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T17:55:41.597723Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T17:56:22.496923Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:56:22.496934Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:56:34.096460Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:56:34.096494Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:56:41.297320Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:56:41.297338Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:57:14.396617Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:57:14.396627Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:57:30.096713Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:57:30.096763Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:57:41.296697Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:57:41.296727Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:58:17.495974Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:58:17.495992Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:58:41.396037Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:58:41.396060Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T17:58:43.127281Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T17:58:43.127292Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T17:59:41.398174Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T17:59:41.398319Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:00:41.395137Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:00:41.395195Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:01:41.394102Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:01:41.394186Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:02:11.193696Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T18:02:11.193725Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:02:21.093979Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T18:02:21.093989Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:02:39.793035Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T18:02:39.793045Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:02:39.821020Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T18:02:41.393704Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:02:41.393731Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:02:49.293673Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T18:02:49.293694Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T18:02:49.393464Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T18:02:49.393472Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T18:02:49.393500Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T18:03:41.393009Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:03:41.393059Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:04:41.391848Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:04:41.391871Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:05:00.191254Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T18:05:00.191283Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T18:05:41.391774Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:05:41.391838Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:05:44.791756Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T18:05:44.791769Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T18:06:41.391772Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:06:41.391844Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:07:02.592796Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T18:07:02.592815Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:07:24.890097Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T18:07:24.890121Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:07:33.889632Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T18:07:33.889642Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:07:41.390522Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:07:41.390534Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:08:23.990616Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T18:08:23.990715Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:08:41.389527Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:08:41.389547Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:09:41.388417Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:09:41.388475Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:09:50.088396Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T18:09:50.088405Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:10:03.588265Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T18:10:03.588283Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:10:31.687916Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T18:10:31.688034Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:10:41.387964Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:10:41.387973Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:11:41.487587Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:11:41.487665Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:12:41.487155Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:12:41.487179Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:13:19.287034Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T18:13:19.287049Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T18:13:41.485000Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:13:41.485010Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:13:52.388127Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T18:13:52.388171Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T18:14:03.086107Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T18:14:03.086124Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T18:14:41.486064Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:14:41.486139Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:14:59.685230Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T18:14:59.685244Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T18:15:41.485141Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:15:41.485165Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:15:54.284480Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.ts")}
+2024-08-06T18:15:54.284494Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T18:15:54.784451Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.ts.timestamp-1722968154691-e9f9db68d27de.mjs")}
+2024-08-06T18:15:54.784461Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T18:15:54.784488Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T18:16:36.283855Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.ts")}
+2024-08-06T18:16:36.283880Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T18:16:36.284063Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T18:16:36.584758Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.ts.timestamp-1722968196512-ed2034ef72ed8.mjs")}
+2024-08-06T18:16:36.584769Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T18:16:36.584790Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T18:16:41.484684Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:16:41.484708Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:17:41.483942Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:17:41.483973Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:17:44.483435Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T18:17:44.483443Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T18:18:41.483381Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:18:41.483421Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:19:28.183300Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/index.ts")}
+2024-08-06T18:19:28.183370Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:19:30.382412Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/index.ts")}
+2024-08-06T18:19:30.382428Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:19:30.386615Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T18:19:41.482947Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:19:41.482966Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:20:41.546430Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:20:41.546483Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:20:56.546834Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T18:20:56.546846Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T18:21:01.948708Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T18:21:01.950408Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T18:21:41.546746Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:21:41.546781Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:22:41.547172Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:22:41.547194Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:23:41.547363Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:23:41.547392Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:24:09.548115Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/api.ts")}
+2024-08-06T18:24:09.548128Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:24:11.948454Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/api.ts")}
+2024-08-06T18:24:11.948464Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:24:40.348593Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/index.ts")}
+2024-08-06T18:24:40.348650Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:24:41.548006Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:24:41.548013Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:24:43.547539Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/index.ts")}
+2024-08-06T18:24:43.547553Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:24:46.748371Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/api.ts")}
+2024-08-06T18:24:46.748379Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:24:51.348668Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/api.ts")}
+2024-08-06T18:24:51.348806Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:25:05.848756Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/api.ts")}
+2024-08-06T18:25:05.848766Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:25:40.047733Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/index.ts")}
+2024-08-06T18:25:40.047742Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:25:41.649015Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:25:41.649050Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:25:45.748933Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/index.ts")}
+2024-08-06T18:25:45.748944Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:25:48.749229Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/index.ts")}
+2024-08-06T18:25:48.749238Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:25:51.348760Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/index.ts")}
+2024-08-06T18:25:51.348779Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T18:25:51.348814Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T18:26:05.949059Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-context.tsx")}
+2024-08-06T18:26:05.949072Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T18:26:12.649402Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T18:26:12.649411Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T18:26:41.649087Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:26:41.649137Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:27:41.650361Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:27:41.650427Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:28:41.651014Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:28:41.651060Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:29:41.650362Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:29:41.650398Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:30:41.651978Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:30:41.652007Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:31:41.652004Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:31:41.652029Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:32:41.652806Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:32:41.652841Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:33:41.653848Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:33:41.653955Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:34:41.654065Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:34:41.654091Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:35:41.654072Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:35:41.654111Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:36:41.754885Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:36:41.754913Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:37:41.754752Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:37:41.754789Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:38:41.756448Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:38:41.756477Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:39:41.756170Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:39:41.756217Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:40:41.757474Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:40:41.757511Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:41:41.757495Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:41:41.757529Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:42:41.757904Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:42:41.757948Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:43:41.759011Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:43:41.759046Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:44:41.759178Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:44:41.759199Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:45:41.759320Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:45:41.759343Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:46:41.759769Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:46:41.759799Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:47:41.736834Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:47:41.736875Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:48:41.831938Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:48:41.832012Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:49:41.831391Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:49:41.831420Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:50:41.831426Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:50:41.831448Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:51:41.831462Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:51:41.831480Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:52:41.831565Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:52:41.831603Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:53:41.832557Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:53:41.832575Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:54:41.832799Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:54:41.832867Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:55:41.833200Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:55:41.833230Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:56:41.831512Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:56:41.831581Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:57:41.831782Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:57:41.831803Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:58:41.932103Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:58:41.932141Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T18:59:41.930767Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T18:59:41.930802Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:00:41.932664Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:00:41.932717Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:01:41.932321Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:01:41.932332Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:02:41.932722Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:02:41.932820Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:03:41.931978Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:03:41.932009Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:04:41.932157Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:04:41.932187Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:05:41.932807Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:05:41.932851Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:06:41.932314Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:06:41.932385Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:07:41.932876Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:07:41.932913Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:08:41.931446Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:08:41.931506Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:09:42.031397Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:09:42.031433Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:10:42.030771Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:10:42.030798Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:11:42.030954Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:11:42.030985Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:12:42.031448Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:12:42.031490Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:13:42.031410Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:13:42.031447Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:14:42.031183Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:14:42.031229Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:15:42.025815Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:15:42.025865Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:16:42.023854Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:16:42.023873Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:17:42.024682Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:17:42.024701Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:18:42.023652Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:18:42.023773Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:19:42.023591Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:19:42.023623Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:20:42.124809Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:20:42.124876Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:21:42.123999Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:21:42.124037Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:22:42.124216Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:22:42.124355Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:23:42.123809Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:23:42.123868Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:24:42.124609Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:24:42.124635Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:25:42.124005Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:25:42.124046Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:26:42.124201Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:26:42.124248Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:27:42.122365Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:27:42.122380Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:28:42.123576Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:28:42.123659Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:29:42.122319Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:29:42.122340Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:30:42.121780Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:30:42.121851Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:31:42.222823Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:31:42.222855Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:32:42.223510Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:32:42.223580Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:33:42.222636Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:33:42.222650Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:34:42.222842Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:34:42.222917Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:35:42.223483Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:35:42.223523Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:36:42.222390Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:36:42.222411Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:37:42.222842Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:37:42.223028Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:38:42.222872Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:38:42.222894Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:39:42.221904Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:39:42.221963Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:40:42.220164Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:40:42.220186Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:41:42.220596Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:41:42.220671Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:42:42.321531Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:42:42.321593Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:43:42.323541Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:43:42.323618Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:44:42.322644Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:44:42.322678Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:45:42.322461Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:45:42.322622Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:46:42.322607Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:46:42.322661Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:47:42.323244Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:47:42.323331Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:48:42.321892Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:48:42.321910Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:49:42.321778Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:49:42.321833Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:50:42.323247Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:50:42.323276Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:51:42.321606Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:51:42.321798Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:52:42.421383Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:52:42.421440Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:53:42.420447Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:53:42.420498Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:54:42.421790Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:54:42.421817Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:55:42.421514Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:55:42.421561Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:56:42.421892Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:56:42.421912Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:57:42.421490Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:57:42.421592Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:58:42.421371Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:58:42.421392Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T19:59:42.420362Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T19:59:42.420410Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:00:42.420435Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:00:42.420481Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:01:17.720025Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T20:01:17.720189Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T20:01:42.419467Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:01:42.419494Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:02:10.619392Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T20:02:10.619410Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T20:02:24.419304Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/lib/utils.ts")}
+2024-08-06T20:02:24.419320Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T20:02:34.619219Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/lib/utils.ts")}
+2024-08-06T20:02:34.619232Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T20:02:40.219864Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("bun.lockb"), AnchoredSystemPathBuf("server/package.json"), AnchoredSystemPathBuf(".lockb-ee827b4f7e99c1c1.tmp")}
+2024-08-06T20:02:40.219871Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:02:42.418971Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:02:42.418996Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:02:51.418667Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/lib/utils.ts")}
+2024-08-06T20:02:51.418676Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T20:02:51.418703Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T20:02:59.719475Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/lib/utils.ts")}
+2024-08-06T20:02:59.719485Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T20:03:42.519949Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:03:42.520025Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:03:45.118380Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T20:03:45.118390Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T20:03:50.119422Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T20:03:50.119431Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T20:04:34.019744Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T20:04:34.019784Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T20:04:39.819358Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T20:04:39.819366Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T20:04:39.841643Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T20:04:42.519383Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:04:42.519398Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:04:48.919359Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:04:48.919393Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:05:21.919374Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T20:05:21.919386Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T20:05:21.919421Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T20:05:42.520006Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:05:42.520036Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:06:04.719473Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T20:06:04.719487Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T20:06:04.719514Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T20:06:42.519251Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:06:42.519259Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:06:45.419162Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T20:06:45.419174Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T20:07:10.218829Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:07:10.218859Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:07:10.318957Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-wal"), AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:07:10.318966Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:07:41.919465Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/send-message.ts")}
+2024-08-06T20:07:41.919479Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T20:07:42.518919Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:07:42.518929Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:07:50.119077Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-wal"), AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:07:50.119097Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:07:52.318190Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm"), AnchoredSystemPathBuf("dev.db-wal")}
+2024-08-06T20:07:52.318209Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:08:42.518932Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:08:42.518961Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:08:43.419402Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T20:08:43.419416Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T20:09:20.260746Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/routes/chat/get-messages.ts")}
+2024-08-06T20:09:20.260773Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T20:09:20.283087Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T20:09:40.965641Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T20:09:40.965672Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T20:09:40.965702Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T20:09:42.566011Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:09:42.566047Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:10:42.567864Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:10:42.567945Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:10:44.666983Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm"), AnchoredSystemPathBuf("dev.db-wal")}
+2024-08-06T20:10:44.667061Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:10:46.867858Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-wal"), AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:10:46.867875Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:11:42.568093Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:11:42.568152Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:11:53.168231Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/index.ts")}
+2024-08-06T20:11:53.168241Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T20:11:53.168274Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T20:12:05.069271Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("server/src/index.ts")}
+2024-08-06T20:12:05.069279Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("betr-lucia"), path: AnchoredSystemPathBuf("server") }}))
+2024-08-06T20:12:42.569710Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:12:42.569752Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:13:42.569715Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:13:42.569746Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:14:42.570136Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:14:42.570177Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:15:42.671839Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:15:42.671949Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:16:42.672888Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:16:42.672944Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:17:42.673199Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:17:42.673279Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:18:42.676023Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:18:42.676065Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:18:55.373534Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T20:18:55.373546Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T20:18:57.874241Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/src/components/chat-messages.tsx")}
+2024-08-06T20:18:57.874251Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T20:19:21.373830Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.ts")}
+2024-08-06T20:19:21.373856Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T20:19:21.574910Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.ts.timestamp-1722975561543-b919d77b80755.mjs")}
+2024-08-06T20:19:21.576097Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T20:19:21.649720Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T20:19:42.674612Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:19:42.674697Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:20:30.474912Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/.env")}
+2024-08-06T20:20:30.474932Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T20:20:30.474952Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T20:20:30.974446Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/vite.config.ts.timestamp-1722975630886-0cffd6b18c3e2.mjs")}
+2024-08-06T20:20:30.974456Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("client"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-06T20:20:30.974480Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-06T20:20:42.676500Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:20:42.676526Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:21:42.675399Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:21:42.675458Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:22:42.676464Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:22:42.676487Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:23:42.676615Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:23:42.676654Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:24:42.676913Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:24:42.676947Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:25:42.678301Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:25:42.678380Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:26:42.678564Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:26:42.678595Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:27:42.678872Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:27:42.678906Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:28:42.780626Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:28:42.780664Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-06T20:29:42.779932Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("dev.db-shm")}
+2024-08-06T20:29:42.779950Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))

@@ -7,20 +7,17 @@ import { error } from "./plugins/error";
 import { protectedRoutes } from "./routes/protected";
 import { streamRoutes } from "./routes/ai-stream";
 import { chatRoutes } from "./routes/chat";
+import { api } from "./api";
 
 export const app = new Elysia()
   .use(
     cors({
-      origin: "localhost:3000",
+      origin: ["localhost:3000", "localhost:5173"],
       allowedHeaders: ["Content-Type", "Authorization"],
     })
   )
   .use(swagger())
-  .use(authRoutes)
-  .use(userRoutes)
-  .use(chatRoutes)
-  .use(protectedRoutes)
-  .use(streamRoutes)
+  .use(api)
   .get("/", () => {
     return { message: "Hello, world!" };
   })

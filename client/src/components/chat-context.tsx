@@ -4,13 +4,15 @@ import {
   InfiniteData,
 } from "@tanstack/react-query";
 import { createContext, useRef, useState } from "react";
-import { ReturnedMessage } from "@/lib/types";
+
 import { AssistantStream } from "openai/lib/AssistantStream.mjs";
 import { toast } from "sonner";
-const BASE_URL = import.meta.env.NEXT_PUBLIC_BASE_URL;
+import { SelectMessage } from "@server/db/schema/message";
+import { app } from "@/lib/server-endpoint";
+
 // TODO: how to pass message type from backend to frontend ?
 type MessagesData = {
-  messages: ReturnedMessage[];
+  messages: SelectMessage[];
   nextCursor?: string | null;
 };
 
@@ -40,16 +42,25 @@ export const ChatContextProvider = ({ children }: Props) => {
   const backupUserInput = useRef("");
   const { mutate: sendMessage } = useMutation({
     mutationFn: async ({ message }: { message: string }) => {
-      const response = await fetch(`${BASE_URL}/stream/message`, {
-        method: "POST",
-        body: JSON.stringify({ message }),
-      });
+      // const response = await fetch("http://localhost:3000/chat/messages", {
+      //   method: "POST",
+      //   headers: {
+      //     "Content-Type": "application/json",
+      //   },
+      //   body: JSON.stringify({ message }),
+      // });
+      const { data, error } = await app.api.chat.messages.post({ message });
 
-      if (!response.ok) {
-        throw new Error("Failed to send message");
+      // if (!response.ok) {
+      //   toast.error(`An error occurred: ${response.statusText}`);
+      // }
+
+      if (error) {
+        toast.error(`An error occurred: ${error}`);
       }
 
-      return AssistantStream.fromReadableStream(response.body!);
+      // return AssistantStream.fromReadableStream(response.body!);
+      return AssistantStream.fromReadableStream(data!);
     },
     onMutate: async ({ message }) => {
       backupUserInput.current = message;
@@ -83,6 +94,7 @@ export const ChatContextProvider = ({ children }: Props) => {
               text: message,
               isUserMessage: 1,
               messageType: "text",
+              userId: "user",
             },
             ...latestPage.messages,
           ];
@@ -150,6 +162,7 @@ export const ChatContextProvider = ({ children }: Props) => {
                         isUserMessage: 0,
                         messageType: "text",
                         updatedAt: new Date().getTime(),
+                        userId: "ai",
                       },
                       ...page.messages,
                     ];

@@ -23,6 +23,7 @@
     "drizzle-orm": "^0.32.1",
     "drizzle-typebox": "^0.1.1",
     "elysia": "^1.1.5",
+    "nanoid": "^5.0.7",
     "openai": "^4.54.0",
     "oslo": "^1.2.1",
     "picocolors": "^1.0.1",

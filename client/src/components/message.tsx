@@ -8,6 +8,50 @@ import { PiPencilSimpleFill } from "react-icons/pi";
 import { Icons } from "@/components/icons";
 import { Button } from "@/components/ui/button";
 import { Avatar, AvatarFallback, AvatarImage } from "./ui/avatar";
+import { cn } from "@/lib/utils";
+import React, { forwardRef } from "react";
+
+// import { MessageType } from "@prisma/client";
+// import { useCurrentUser } from "@/lib/hooks/useCurrentUser";
+
+import { SelectMessage } from "@server/db/schema/message";
+
+interface MessageProps {
+  message: SelectMessage;
+  isNextMessageSamePerson: boolean;
+  messageType: string;
+}
+
+const Message = forwardRef<HTMLDivElement, MessageProps>(({ message }, ref) => {
+  // const user = useCurrentUser();
+  return (
+    <div
+      ref={ref}
+      className={cn("flex items-end", {
+        "justify-end": message.isUserMessage === 1,
+      })}
+    >
+      <div
+        className={cn("flex flex-col space-y-2 text-base max-w-md mx-2", {
+          "order-1 items-end": message.isUserMessage === 1,
+          "order-2 items-start": message.isUserMessage === 0,
+        })}
+      >
+        {message.isUserMessage === 1 ? (
+          <UserMessage>{message.text}</UserMessage>
+        ) : message.isUserMessage === 0 && message.messageType === "LOADING" ? (
+          <LoadingMessage />
+        ) : message.isUserMessage === 0 ? (
+          <AssistantMessage content={message.text} />
+        ) : null}
+      </div>
+    </div>
+  );
+});
+
+Message.displayName = "Message";
+
+export default Message;
 
 export function UserMessage({ children }: { children: React.ReactNode }) {
   const user = {
@@ -42,12 +86,7 @@ export function UserMessage({ children }: { children: React.ReactNode }) {
     </div>
   );
 }
-export function AssistantMessage({
-  content,
-}: {
-  content: string | StreamableValue<string>;
-}) {
-  const text = useStreamableText(content);
+export function AssistantMessage({ content }: { content: string }) {
   {
     /* TODO: add message actions functionality ??? */
   }
@@ -59,7 +98,7 @@ export function AssistantMessage({
         </div>
         <div className="mx-1 flex max-w-[300px] md:max-w-[400px] lg:max-w-[600px] flex-col space-y-2 text-base md:mx-2  order-1 items-end">
           <div className="inline-block rounded-lg px-2 py-2 shadow-md md:px-4 bg-white text-stone-800 w-full md:prose-md prose prose-sm lg:prose-lg">
-            {text}
+            {content}
           </div>
         </div>
       </div>

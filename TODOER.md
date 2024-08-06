@@ -1,0 +1,6 @@
+- Change the server to be /api/v1/...
+- Test the streaming from backend to frontend
+- In chat context, try to pass message type from backend to frontend
+- Implement Oauth flow with google
+- Implement auth flow with email and OTP
+- Wire up frontend Auth with backend

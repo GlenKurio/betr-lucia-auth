@@ -16,3 +16,6 @@ export const messagesTable = sqliteTable("messages", {
     .notNull()
     .references(() => usersTable.id),
 });
+
+export type InsertMessage = typeof messagesTable.$inferInsert;
+export type SelectMessage = typeof messagesTable.$inferSelect;
