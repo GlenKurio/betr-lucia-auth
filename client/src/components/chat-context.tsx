@@ -8,7 +8,7 @@ import { ReturnedMessage } from "@/lib/types";
 import { AssistantStream } from "openai/lib/AssistantStream.mjs";
 import { toast } from "sonner";
 const BASE_URL = import.meta.env.NEXT_PUBLIC_BASE_URL;
-
+// TODO: how to pass message type from backend to frontend ?
 type MessagesData = {
   messages: ReturnedMessage[];
   nextCursor?: string | null;
@@ -77,11 +77,12 @@ export const ChatContextProvider = ({ children }: Props) => {
 
           latestPage.messages = [
             {
-              createdAt: new Date(),
+              createdAt: new Date().getTime(),
+              updatedAt: new Date().getTime(),
               id: crypto.randomUUID(),
               text: message,
-              isUserMessage: true,
-              messageType: "TEXT",
+              isUserMessage: 1,
+              messageType: "text",
             },
             ...latestPage.messages,
           ];
@@ -143,11 +144,12 @@ export const ChatContextProvider = ({ children }: Props) => {
                   if (!isAiResponseCreated) {
                     updatedMessages = [
                       {
-                        createdAt: new Date(),
+                        createdAt: new Date().getTime(),
                         id: "ai-response",
                         text: delta.value ?? "",
-                        isUserMessage: false,
-                        messageType: "TEXT",
+                        isUserMessage: 0,
+                        messageType: "text",
+                        updatedAt: new Date().getTime(),
                       },
                       ...page.messages,
                     ];

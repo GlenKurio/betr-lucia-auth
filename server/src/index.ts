@@ -6,6 +6,7 @@ import { userRoutes } from "./routes/users";
 import { error } from "./plugins/error";
 import { protectedRoutes } from "./routes/protected";
 import { streamRoutes } from "./routes/ai-stream";
+import { chatRoutes } from "./routes/chat";
 
 export const app = new Elysia()
   .use(
@@ -17,6 +18,7 @@ export const app = new Elysia()
   .use(swagger())
   .use(authRoutes)
   .use(userRoutes)
+  .use(chatRoutes)
   .use(protectedRoutes)
   .use(streamRoutes)
   .get("/", () => {
@@ -27,3 +29,5 @@ export const app = new Elysia()
 console.log(
   `🦊 Elysia is running at ${app.server?.hostname}:${app.server?.port}`
 );
+
+export type App = typeof app;

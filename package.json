@@ -1,0 +1,15 @@
+{
+  "name": "todos",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "dev": "turbo run dev",
+    "check": "turbo run check"
+  },
+  "dependencies": {
+    "turbo": "^2.0.6"
+  },
+  "packageManager": "bun@1.1.18"
+}

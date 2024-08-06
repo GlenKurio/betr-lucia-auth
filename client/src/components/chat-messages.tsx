@@ -2,18 +2,19 @@ import { useInfiniteQuery } from "@tanstack/react-query";
 import { useContext, useEffect } from "react";
 import { PiChatsCircleFill } from "react-icons/pi";
 import { ChatContext } from "./chat-context";
-import { getMessages } from "@/data/get-messages";
 import { useIntersectionObserver } from "usehooks-ts";
+import { getMessages } from "@/data/get-messages";
 
 export default function ChatMessages() {
   const { isLoading: isAiThinking } = useContext(ChatContext);
 
   const { data, fetchNextPage, isLoading } = useInfiniteQuery({
     queryKey: ["messages"],
-    queryFn: ({ pageParam }) => getMessages({ pageParam }),
+    queryFn: async ({ pageParam }) => getMessages(pageParam),
     initialPageParam: "",
-    getNextPageParam: (lastPage, pages) => lastPage?.nextCursor ?? null,
+    getNextPageParam: (lastPage) => lastPage?.nextCursor ?? null,
   });
+  console.log("INFINITE DATA: ", data);
   const messages = data?.pages.flatMap((page) => page.messages) ?? [];
 
   const loadingMessage = {
@@ -41,6 +42,7 @@ export default function ChatMessages() {
 
   return (
     <>
+      {/* TODO: rewrite this logic to match one from tour-pilot */}
       {isLoading ? (
         <div>Loading Messages...</div>
       ) : messages && messages.length > 0 ? (
